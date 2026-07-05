@@ -1,0 +1,5 @@
+1. Utilizar contraseñas seguras y cambiarlas periódicamente para proteger las cuentas de los usuarios.
+2. Asignar permisos según el rol de cada usuario, aplicando el principio de mínimo privilegio.
+3. Mantener el sistema y las aplicaciones actualizadas para corregir vulnerabilidades de seguridad.
+4. Realizar copias de seguridad periódicas de la información para prevenir la pérdida de datos.
+5. Capacitar a los usuarios para identificar correos, enlaces o archivos sospechosos que puedan comprometer la seguridad de la plataforma.
